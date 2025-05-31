@@ -1,8 +1,6 @@
 ## My Portfolio
 
-I could not show my personal projects through my CV so I will do so here.
-
-I have the projects I can show publicly in repositories, however do have some which I couldn't show.
+I could not show my personal projects through my CV so I will do so here. Below are the projects that I am unable to show the code for.
 
 1. VuwCTF Website: VuwCTF.com
       - A website to help people around the world, learn more about cyber security.
