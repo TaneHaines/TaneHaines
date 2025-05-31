@@ -1,16 +1,16 @@
-## Hi there 👋
+## My Portfolio
 
-<!--
-**TaneHaines/TaneHaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I could not show my personal projects through my CV so I will do so here.
 
-Here are some ideas to get you started:
+I have the projects I can show publicly in repositories, however do have some which I couldn't show.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. VuwCTF Website: VuwCTF.com
+      - A website to help people around the world, learn more about cyber security.
+2. Project Korora: projectkorora.space
+      - Project Korora is a project to launch the first ever CubeSat in New Zealand. A cubesat is a small satilite which can be launched with low costs.
+3. Sanderson Game: Oh, that ones actually here as a repository.
+      - A game I made during the Massey GameJam.
+4. Wai-Te-Ata press tool. 
+      - We had a website but it is down now. Will show Scholarship document on request which has what I learned during the project.
+5. AVC Car for ENGR101 at University.
+      - Creating a small car that follows a line, gets through a maze and can complete other tasks.
