@@ -85,7 +85,11 @@
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" height="40" alt="godot logo"  />
+
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/latex/original.svg" height="40" alt="latex logo"></img>
 </div>
+
 
 ###
 
